@@ -14,3 +14,13 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/
+data/tmp/
